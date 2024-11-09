@@ -1,0 +1,21 @@
+.A{
+border-color:blue;
+border-top: solid;
+border-left:dashed ;
+border-right:double;
+border-bottom:dotted ;
+border-width: 6px;
+
+}
+.B{
+border: solid 5px red ;
+margin-top: 100px;
+}
+
+
+.C{
+border: solid 5px violet ;
+margin-top: 100px;
+border-radius: 50%;
+padding: 20px;
+}
